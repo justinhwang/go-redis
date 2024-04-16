@@ -1,3 +1,9 @@
+## Unreleased
+
+### Maintenance
+
+* Change unsafe BytesToString and StringToBytes to Go 1.20+ idiomatic manner
+
 ## [9.0.5](https://github.com/redis/go-redis/compare/v9.0.4...v9.0.5) (2023-05-29)
 
 
